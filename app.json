@@ -51,17 +51,17 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"*༒︎⃝̈́͡ꪶ͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈"
         },
         "BOT_INFO": {
             "description": "Name, image, owner and other details in menu (seperate with comma)",
             "required": true,
-            "value":"Raganork,SKL11,91123456789,https://i.imgur.com/B2YWSLk.jpg"
+            "value":"*༒︎⃝̈́͡ꪶ͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈,*༒︎⃝̈́͡ꪶ͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈,917356952058,https://graph.org/file/6576a8340bbbe2013fbdf.jpg"
         },
         "AUDIO_DATA": {
-            "description": "Name of audio (take) name;name;image(url)",
+            "description": "Name of audio (take) name;name;image(https://graph.org/file/6576a8340bbbe2013fbdf.jpg)",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
+            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;https://graph.org/file/6576a8340bbbe2013fbdf.jpg"
         },
         "MODE": {
             "description": "Private or public",
